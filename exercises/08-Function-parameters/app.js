@@ -1,5 +1,9 @@
 // Your code goes here:
+const renderPerson= (name,date, color, age, gender)=>{
 
+    return name +" is a "+age+" years old "+gender+" born in "+date+" with "+color+" eyes";
+
+}
 
 
   ///*** Do not edit below this line ****/
